@@ -33,7 +33,7 @@ THEN I find a concise, descriptive title
 # Visuals
 Add project Screenwhot
 
-
+ <img src="./assets/images/client-mock.png" alt="refactor project client website screenshot">
 
 # Authors and acknowledgment
 Add coding bootcamp folks & resource websites
