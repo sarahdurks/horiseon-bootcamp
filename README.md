@@ -1,1 +1,39 @@
-# Code Refactor Starter Code
+
+# Name
+Coding Bootcamp HTML Git Refactor Challenge
+
+# Description
+Berkeley Bootcamp's 1st Challenge, a demo of refactoring a marketing agency's website. 
+
+The following was completed:
+
+  - HTML and CSS were updated to be n line with best practices.
+  - Thing 2
+  - Thing 3
+
+# Acceptance Criteria 
+Here are the details of the original assignment ask:
+
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+
+# Visuals
+Add project Screenwhot
+
+
+
+# Authors and acknowledgment
+Add coding bootcamp folks & resource websites
