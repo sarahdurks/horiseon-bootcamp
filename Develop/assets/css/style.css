@@ -80,7 +80,6 @@ p {
     margin-left: 20px;
 }
 
-}
 /* services styling */
 main section {
     margin-bottom: 20px;
@@ -160,6 +159,7 @@ main h2 {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
 /* footer styling */
 .footer {
     padding: 30px;
@@ -167,7 +167,6 @@ main h2 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
 .footer h2 {
     font-size: 20px;
 }
