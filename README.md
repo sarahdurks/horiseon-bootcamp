@@ -31,8 +31,8 @@ Here are the details of the original assignment ask:<p></p>
 
 # Visuals
 Add project Screenwhot
+![Horiseon client website screenshot](/assets/images/client-mock.png")
 
- <img src="./assets/images/client-mock.png" alt="refactor project client website screenshot">
 
 # Authors, Acknowledgement, & Resources
 Add coding bootcamp folks & resource websites
@@ -47,3 +47,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/
 W3Schools
 https://www.w3schools.com/html/html5_semantic_elements.asp
 https://www.w3schools.com/tags/tag_meta.asp
+
+Gtihub Guides
+https://guides.github.com/features/mastering-markdown/
