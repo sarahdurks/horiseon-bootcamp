@@ -3,7 +3,7 @@
 Coding Bootcamp HTML Git Refactor Challenge
 
 
-# Description
+# Description :closed_book:
 Berkeley Bootcamp's 1st Challenge, a demo of refactoring a marketing agency's website. 
 
 The following was completed:
@@ -12,7 +12,7 @@ The following was completed:
 - [x] Comments added in index.html and .css files for clarity
 - [x] SEO factors added: Meta Description, Meta Keywords, Title Tags, image alt text
 
-# Acceptance Criteria 
+# Acceptance Criteria :white_check_mark:
 
 Details of the original assignment ask:
 
@@ -31,22 +31,22 @@ Details of the original assignment ask:
 > WHEN I view the title element
 > THEN I find a concise, descriptive title
 
-# Project Visual
+# Project Visual :heart_eyes_cat:
 Add project Screenshot
 ![Horiseon client website screenshot](/assets/images/client-mock.png)
 
 
-# Authors, Acknowledgement, & Resources
-### CSS Tricks
+# Authors, Acknowledgement, & Resources :handshake:
+### CSS Tricks :boom:
 [A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
 [Precedence CSS Order CSS Matters](https://css-tricks.com/precedence-css-order-css-matters)
 
-### FreeCodeCamp
+### FreeCodeCamp :raised_hands:
 [Responsive Web Design CSS Flexbox](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/)
 
-### W3Schools
+### W3Schools :nerd_face:
 [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 [Meta Tags](https://www.w3schools.com/tags/tag_meta.asp)
 
-### Gtihub Guides 
+### Gtihub Guides :octocat:
 [GitHub to Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
