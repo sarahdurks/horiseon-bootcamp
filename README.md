@@ -13,21 +13,21 @@ The following was completed:
 <li>SEO factors added: Meta Description, Meta Keywords, Title Tags, image alt text</li>
 <ul>
 # Acceptance Criteria 
-Here are the details of the original assignment ask:<p></p>
-<p>AS A marketing agency</p>
-<p>I WANT a codebase that follows accessibility standards</p>
-<p>SO THAT our own site is optimized for search engines</p>
-<p><p>GIVEN a webpage meets accessibility standards</p>
-<p>WHEN I view the source code</p>
-<p>THEN I find semantic HTML elements</p>
-<p>WHEN I view the structure of the HTML elements</p>
-<p>THEN I find that the elements follow a logical structure independent of styling and positioning</p>
-<p>WHEN I view the image elements</p>
-<p>THEN I find accessible alt attributes</p>
-<p>WHEN I view the heading attributes</p>
-<p>THEN they fall in sequential order</p>
-<p>WHEN I view the title element</p>
-<p>THEN I find a concise, descriptive title</p>
+Details of the original assignment ask:<p></p>
+> AS A marketing agency
+> I WANT a codebase that follows accessibility standards
+> SO THAT our own site is optimized for search engines
+> GIVEN a webpage meets accessibility standards
+> WHEN I view the source code
+> THEN I find semantic HTML elements
+> WHEN I view the structure of the HTML elements
+> THEN I find that the elements follow a logical structure independent of styling and positioning
+> WHEN I view the image elements
+> THEN I find accessible alt attributes
+> WHEN I view the heading attributes
+> THEN they fall in sequential order
+> WHEN I view the title element
+> THEN I find a concise, descriptive title
 
 # Visuals
 Add project Screenwhot
@@ -35,18 +35,18 @@ Add project Screenwhot
 
 
 # Authors, Acknowledgement, & Resources
-Add coding bootcamp folks & resource websites
 
-CSS Tricks
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-https://css-tricks.com/precedence-css-order-css-matters/
+###CSS Tricks
+[A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
+[Precedence CSS Order CSS Matters](https://css-tricks.com/precedence-css-order-css-matters)
 
-FreeCodeCamp
-https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/
 
-W3Schools
-https://www.w3schools.com/html/html5_semantic_elements.asp
-https://www.w3schools.com/tags/tag_meta.asp
+###FreeCodeCamp
+[Responsive Web Design CSS Flexbox](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/)
 
-Gtihub Guides
-https://guides.github.com/features/mastering-markdown/
+###W3Schools
+[HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+[Meta Tags](https://www.w3schools.com/tags/tag_meta.asp)
+
+###Gtihub Guides
+[GitHub to Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
