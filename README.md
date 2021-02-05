@@ -12,10 +12,12 @@ The following was completed:
 <li> HTML and CSS were updated to be in line with best practices, in a consolidated, logical sequence</li>
 <li>Comments added in index.html and .css files for clarity</li>
 <li>SEO factors added: Meta Description, Meta Keywords, Title Tags, image alt text</li>
-<ul>
+</ul>
 
 # Acceptance Criteria 
-Details of the original assignment ask:<p></p>
+
+Details of the original assignment ask:
+
 > AS A marketing agency
 > I WANT a codebase that follows accessibility standards
 > SO THAT our own site is optimized for search engines
@@ -31,22 +33,22 @@ Details of the original assignment ask:<p></p>
 > WHEN I view the title element
 > THEN I find a concise, descriptive title
 
-# Visuals
-Add project Screenwhot
+# Project Visual
+Add project Screenshot
 ![Horiseon client website screenshot](/assets/images/client-mock.png")
 
 
 # Authors, Acknowledgement, & Resources
-## CSS Tricks
+### CSS Tricks
 [A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
 [Precedence CSS Order CSS Matters](https://css-tricks.com/precedence-css-order-css-matters)
 
-## FreeCodeCamp
-<p>[Responsive Web Design CSS Flexbox](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/)
+### FreeCodeCamp
+[Responsive Web Design CSS Flexbox](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/)
 
-## W3Schools
+### W3Schools
 [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 [Meta Tags](https://www.w3schools.com/tags/tag_meta.asp)
 
-## Gtihub Guides 
+### Gtihub Guides 
 [GitHub to Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
