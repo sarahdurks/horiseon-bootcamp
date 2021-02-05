@@ -35,7 +35,7 @@ Details of the original assignment ask:
 
 # Project Visual
 Add project Screenshot
-![Horiseon client website screenshot](/assets/images/client-mock.png")
+![Horiseon client website screenshot](/assets/images/client-mock.png)
 
 
 # Authors, Acknowledgement, & Resources
