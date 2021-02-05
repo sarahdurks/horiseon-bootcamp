@@ -8,11 +8,9 @@ Berkeley Bootcamp's 1st Challenge, a demo of refactoring a marketing agency's we
 
 The following was completed:
 
-<ul>
-<li> HTML and CSS were updated to be in line with best practices, in a consolidated, logical sequence</li>
-<li>Comments added in index.html and .css files for clarity</li>
-<li>SEO factors added: Meta Description, Meta Keywords, Title Tags, image alt text</li>
-</ul>
+- [x] HTML and CSS were updated to be in line with best practices, in a consolidated, logical sequence
+- [x] Comments added in index.html and .css files for clarity
+- [x] SEO factors added: Meta Description, Meta Keywords, Title Tags, image alt text
 
 # Acceptance Criteria 
 
