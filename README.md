@@ -33,8 +33,7 @@ Details of the original assignment ask:
 > THEN I find a concise, descriptive title
 
 # Project Visual
-Add project Screenshot
-![Horiseon client website screenshot](https://github.com/sarahdurks/horiseon-bootcamp/blob/main/assets/images/client-mock.png?raw=true) 
+![client-mock](https://user-images.githubusercontent.com/77648727/107129325-78af0680-6879-11eb-81de-75cbba4a5799.png)
 
 # Authors, Acknowledgement, & Resources :handshake:
 ### CSS Tricks :boom:
