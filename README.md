@@ -2,9 +2,12 @@
 # Name
 Coding Bootcamp HTML Git Refactor Challenge
 
+## Live Application Link
+Horiseon Marketing's Website Refactored
+
 
 # Description
-Berkeley Bootcamp's 1st Challenge, a demo of refactoring a marketing agency's website. 
+Berkeley Coding Bootcamp's 1st Challenge, a demo of refactoring a marketing agency's ("Horiseon") website code  to meet accessibility standards and better SEO practices. 
 
 The following was completed:
 
