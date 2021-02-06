@@ -1,5 +1,5 @@
 
-# Name :name_badge:
+# Name 
 UC Berkeley's Coding Bootcamp HTML Git Refactor Challenge - Refactoring Horiseon Marketing Website
 
 ### Live Application Link 	:eyes:
@@ -9,7 +9,7 @@ Horiseon Marketing's Website Refactored: [See Deployment on GitHub Pages](https:
 - HTML
 - CSS
 
-# Description :hammer_and_wrench:
+# Description 
 Berkeley Coding Bootcamp's 1st Challenge, a demo of refactoring a marketing agency's website code  to meet accessibility standards and better SEO practices. 
 
 The following was completed:
