@@ -13,7 +13,7 @@ The following was completed:
 - [x] SEO + accessibility factors added: Meta Description, Meta Keywords, Title Tags, image alt text
 - [x] Removed redundant classes 
 
-:white_check_mark:# Acceptance Criteria 
+# Acceptance Criteria :white_check_mark:
 
 Details of the original assignment ask:
 
@@ -34,10 +34,10 @@ Details of the original assignment ask:
 
 # Project Visual
 Add project Screenshot
-![Horiseon client website screenshot](/assets/images/client-mock.png)
+![Horiseon client website screenshot](./assets/images/client-mock.png)
 
 
- :handshake: # Authors, Acknowledgement, & Resources
+# Authors, Acknowledgement, & Resources :handshake:
 ### CSS Tricks :boom:
 [A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
 [Precedence CSS Order CSS Matters](https://css-tricks.com/precedence-css-order-css-matters)
