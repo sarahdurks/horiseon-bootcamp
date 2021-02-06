@@ -3,16 +3,17 @@
 Coding Bootcamp HTML Git Refactor Challenge
 
 
-# Description :closed_book:
+# Description
 Berkeley Bootcamp's 1st Challenge, a demo of refactoring a marketing agency's website. 
 
 The following was completed:
 
 - [x] HTML and CSS were updated to be in line with best practices, in a consolidated, logical sequence
-- [x] Comments added in index.html and .css files for clarity
-- [x] SEO factors added: Meta Description, Meta Keywords, Title Tags, image alt text
+- [x] Comments added in index.html and .css files for clarity around structure and function
+- [x] SEO + accessibility factors added: Meta Description, Meta Keywords, Title Tags, image alt text
+- [x] Removed redundant classes 
 
-# Acceptance Criteria :white_check_mark:
+:white_check_mark:# Acceptance Criteria 
 
 Details of the original assignment ask:
 
@@ -31,12 +32,12 @@ Details of the original assignment ask:
 > WHEN I view the title element
 > THEN I find a concise, descriptive title
 
-# Project Visual :heart_eyes_cat:
+# Project Visual
 Add project Screenshot
 ![Horiseon client website screenshot](/assets/images/client-mock.png)
 
 
-# Authors, Acknowledgement, & Resources :handshake:
+ :handshake: # Authors, Acknowledgement, & Resources
 ### CSS Tricks :boom:
 [A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
 [Precedence CSS Order CSS Matters](https://css-tricks.com/precedence-css-order-css-matters)
