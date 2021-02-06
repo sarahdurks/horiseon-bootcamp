@@ -3,7 +3,7 @@
 Coding Bootcamp HTML Git Refactor Challenge
 
 ## Live Application Link
-Horiseon Marketing's Website Refactored
+Horiseon Marketing's Website Refactored: [See Deployment on GitHub Pages](https://sarahdurks.github.io/horiseon-bootcamp/)
 
 
 # Description
@@ -14,7 +14,8 @@ The following was completed:
 - [x] HTML and CSS were updated to be in line with best practices, in a consolidated, logical sequence
 - [x] Comments added in index.html and .css files for clarity around structure and function
 - [x] SEO + accessibility factors added: Meta Description, Meta Keywords, Title Tags, image alt text
-- [x] Removed redundant classes 
+- [x] Removed redundant classes
+- [x] Changed unspecific 'divs' to semantic HTML
 
 # Acceptance Criteria :white_check_mark:
 
