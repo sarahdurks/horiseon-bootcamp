@@ -34,7 +34,7 @@ Details of the original assignment ask:
 
 # Project Visual
 Add project Screenshot
-![Horiseon client website screenshot](/sarahdurks/horiseon-bootcamp/blob/main/assets/images/client-mock.png) 
+![Horiseon client website screenshot](/blob/main/assets/images/client-mock.png) 
 
 # Authors, Acknowledgement, & Resources :handshake:
 ### CSS Tricks :boom:
