@@ -36,7 +36,7 @@ Details of the original assignment ask:
 > WHEN I view the title element
 > THEN I find a concise, descriptive title
 
-# Project Visual
+# Project Visual :metal:
 ![client-mock](https://user-images.githubusercontent.com/77648727/107129325-78af0680-6879-11eb-81de-75cbba4a5799.png)
 
 # Authors, Acknowledgement, & Resources :handshake:
