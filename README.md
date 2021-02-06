@@ -1,6 +1,6 @@
 
 # Name 
-UC Berkeley's Coding Bootcamp HTML Git Refactor Challenge - Refactoring Horiseon Marketing Website
+UC Berkeley's Coding Bootcamp HTML Git Refactor Challenge
 
 ### Live Application Link 	:eyes:
 Horiseon Marketing's Website Refactored: [See Deployment on GitHub Pages](https://sarahdurks.github.io/horiseon-bootcamp/)
