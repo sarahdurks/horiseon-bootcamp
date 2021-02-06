@@ -1,13 +1,13 @@
 
 # Name
-Coding Bootcamp HTML Git Refactor Challenge
+UC Berkeley's Coding Bootcamp HTML Git Refactor Challenge - Refactoring Horiseon Marketing Website
 
 ## Live Application Link
 Horiseon Marketing's Website Refactored: [See Deployment on GitHub Pages](https://sarahdurks.github.io/horiseon-bootcamp/)
 
 
 # Description
-Berkeley Coding Bootcamp's 1st Challenge, a demo of refactoring a marketing agency's ("Horiseon") website code  to meet accessibility standards and better SEO practices. 
+Berkeley Coding Bootcamp's 1st Challenge, a demo of refactoring a marketing agency's website code  to meet accessibility standards and better SEO practices. 
 
 The following was completed:
 
@@ -40,6 +40,9 @@ Details of the original assignment ask:
 ![client-mock](https://user-images.githubusercontent.com/77648727/107129325-78af0680-6879-11eb-81de-75cbba4a5799.png)
 
 # Authors, Acknowledgement, & Resources :handshake:
+### Teaching Crew at UCB Coding Bootcamp
+[Learn More about Bootcamp Program](https://bootcamp.berkeley.edu/coding/) 
+
 ### CSS Tricks :boom:
 [A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
 [Precedence CSS Order CSS Matters](https://css-tricks.com/precedence-css-order-css-matters)
