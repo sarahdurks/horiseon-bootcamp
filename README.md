@@ -43,7 +43,7 @@ Details of the original assignment ask:
 ![client-mock](https://user-images.githubusercontent.com/77648727/107129325-78af0680-6879-11eb-81de-75cbba4a5799.png)
 
 # Authors, Acknowledgement, & Resources :handshake:
-### Teaching Crew at UCB Coding Bootcamp
+### Teaching Crew at UCB Coding Bootcamp :tada:
 [Learn More about Bootcamp Program](https://bootcamp.berkeley.edu/coding/) 
 
 ### CSS Tricks :boom:
