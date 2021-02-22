@@ -1,6 +1,11 @@
 ![Thumbnail (5)](https://user-images.githubusercontent.com/77648727/108649608-8ae09580-7472-11eb-974e-3b4a4e486fe6.png)
 
 # Name 
+
+ |![image 16 (2)](https://user-images.githubusercontent.com/77648727/108654344-54f4de80-747d-11eb-9a16-12318f82e4a8.png)| UC Berkeley Coding Bootcamp <br> Week 1 Project |
+|---|:---| 
+
+
  HTML Git Refactor Challenge for UC Berkeley's Coding Bootcamp
 
 ### Live Application Link 	:eyes:
