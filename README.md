@@ -1,8 +1,10 @@
 ![Frame 40](https://user-images.githubusercontent.com/77648727/109899842-4cee2900-7c4b-11eb-9e63-94ac3ad09a79.png)
 
 # Name 
-UC Berkeley Coding Bootcamp  Week 1 Project
- HTML Git Refactor Challenge for UC Berkeley's Coding Bootcamp
+ HTML Git Refactor Challenge     
+ 
+![Group 55](https://user-images.githubusercontent.com/77648727/109911428-f0950480-7c5e-11eb-9846-49701ad4a8c3.png)
+
 
 ### Live Application Link 	:eyes:
 Horiseon Marketing's Website Refactored: [See Deployment on GitHub Pages](https://sarahdurks.github.io/horiseon-bootcamp/)
